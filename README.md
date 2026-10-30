@@ -64,5 +64,95 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mechanize is a company surfaced via the API Evangelist harvest backlog (source: direct-request) and added to the network as a stub for full-pipeline profiling.
-- https://www.mechanize.work/
+Mechanize, Inc. is a software company that builds reinforcement learning (RL) environments and evaluations for frontier coding agents and sells them to leading AI labs. In its environments, models carry out software engineering work such as building a feature, deploying an application or debugging an unfamiliar codebase, and a grader scores the result for use as RL training signal and evaluation. Its published work includes GBA Eval, a benchmark measuring whether coding agents can write a Game Boy Advance emulator from scratch in 24 hours. Mechanize publishes no public API, developer documentation or pricing on its website.
+
+**Areas:** Company · Artificial Intelligence · Reinforcement Learning · AI Evaluations · Benchmarks · Coding Agents · Software Engineering
+
+## Mechanize on APIs.io
+
+Everything profiled for Mechanize is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mechanize-work/](https://apis.io/providers/mechanize-work/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mechanize Work Domain Security](https://apis.io/security/mechanize-work/mechanize-work-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Mechanize Work Plans Pricing](https://apis.io/plans/mechanize-work/mechanize-work-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Mechanize Work Rate Limits](https://apis.io/rate-limits/mechanize-work/mechanize-work-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.mechanize.work/)
+- [Support](https://www.mechanize.work/contact.html)
+- [Blog](https://www.mechanize.work/blog/)
+
+## API Evangelist rating
+
+**Kin Score 5.0** — minimal · rubric 0.25.0 · scored 2026-10-27
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mechanize-work/](https://apis.io/providers/mechanize-work/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mechanize: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mechanize-work/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
